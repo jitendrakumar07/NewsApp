@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="password_input">Password Input</string>
+    <string name="by_logging_in_you_agree_to_our_terms_and_conditions">By logging in, you agree to our Terms and Conditions.</string>
+    <string name="email_input">Email Input</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="login">Login</string>
+
+
+        <string name="City_News">Your App Name</string>
+        <string name="logo_description">Description of the logo</string>
+        <!-- Add other string resources here -->
+    <string name="NeewsApp">News App</string>
+    <string name="error_article_title">Error: Article Not Found</string>
+    <string name="error_article_content">The article details could not be loaded.</string>
+    <!-- Add other string resources here -->
+
+</resources>
